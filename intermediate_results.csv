@@ -1,0 +1,2 @@
+p,shots,feasible_shots,feasible_rate_pct,best_portfolio_hits,best_hit_rate_pct,best_sampled_feasible_cost,classical_optimum_cost,optimal_stocks
+1,4096,2157,52.6611328125,1,0.0244140625,-0.6872192458076622,-0.6872192458076622,"[1, 4, 6, 8, 9, 12]"

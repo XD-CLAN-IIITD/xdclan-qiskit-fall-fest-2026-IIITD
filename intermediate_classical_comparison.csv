@@ -1,0 +1,4 @@
+method,best_cost,gap_from_exact,runtime_seconds,notes
+Exact brute force,-0.6872192458076622,0.0,,Enumerates all 924 feasible portfolios; exact reference
+QAOA p=1 sampled,-0.6872192458076622,0.0,,"4,096 simulator shots; exact optimum appeared in 1 shot in the recorded run"
+Simulated annealing,-0.6872192458076622,0.0,,"Seed 2029; 20,000 swap proposals; exact-cardinality feasible at every step; runtime not recorded in this independent audit"

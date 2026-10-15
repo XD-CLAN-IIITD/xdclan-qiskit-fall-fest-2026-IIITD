@@ -1,0 +1,3 @@
+experiment,shots,feasible_rate_pct,best_feasible_cost_sampled,exact_classical_optimum_hits,exact_optimum_hit_rate_pct
+Ideal statevector sampler,2048,10.107421875,-0.5898965912620571,8,0.390625
+Aer noisy simulation,2048,7.470703125,-0.5898965912620571,8,0.390625

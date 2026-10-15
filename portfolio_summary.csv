@@ -1,0 +1,8 @@
+metric,value
+Number of states,64
+Feasible portfolios,20
+Classical best stocks (1-based),"[2, 3, 6]"
+Classical optimum cost,-0.5030146902647753
+Best penalty tested,5.0
+Highest feasible rate (%),67.87109375
+Shots per evaluation,4096

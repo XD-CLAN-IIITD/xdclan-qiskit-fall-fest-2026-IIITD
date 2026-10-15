@@ -1,0 +1,2 @@
+qubits,circuit_depth,total_operations,operation_counts,noise_model,backend
+8,42,109,"{'cx': 56, 'rz': 28, 'u': 8, 'rx': 8, 'measure': 8, 'barrier': 1}",1q depolarizing 0.002; CX depolarizing 0.01; readout assignment errors 0.02/0.03,AerSimulator (simulated; not IBM hardware)

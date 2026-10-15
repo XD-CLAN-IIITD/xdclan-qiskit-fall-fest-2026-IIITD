@@ -1,0 +1,5 @@
+check,passed
+Selected exactly 10 assets,True
+Sector cap respected,True
+"All 80,000 feasible portfolios checked",True
+Classical optimum reproduced,True

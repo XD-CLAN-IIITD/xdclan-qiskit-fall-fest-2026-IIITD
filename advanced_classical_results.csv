@@ -1,0 +1,2 @@
+seed,assets,selected_assets,total_portfolios,sector_feasible_portfolios,best_stocks_1_based,sector_counts,best_classical_cost,method
+2028,20,10,184756,80000,"[1, 2, 5, 6, 7, 8, 12, 14, 15, 20]","[3, 3, 3, 1]",-1.4913972690090196,Classical exhaustive search
